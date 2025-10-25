@@ -56,41 +56,36 @@
 <br>**Study and Focus Assistant Features**
 
 <br>1. Smart Study Scheduler
+
 <br>* Understands natural inputs like “Schedule a 2-hour study session for tomorrow evening.”
-
 <br> * Divides long study sessions into focused intervals (e.g., Pomodoro cycles).
-
 <br>* Suggests ideal study times based on the user’s past performance and activity level.
 
 
 <br>**2. Distraction Manager**
 
 <br>* Detects phrases like “I feel tired” or “I keep checking my phone.”
-
 <br>* Provides short focus exercises or motivational quotes.
-
 <br>* Suggests digital detox techniques and timeouts.
 
 
 <br>**3. Smart Note Summarizer**
 
 <br>* Summarizes large text files, PDFs, or notes into bullet points.
-
 <br>* Highlights key concepts and formulas automatically.
 
 <br> **4. Quick Quiz Generator**
 
 <br>* Creates short quizzes or multiple-choice questions based on uploaded notes.
-
 <br> * Tracks quiz results to recommend weak topics for revision.
 
 <br> **5. Motivation and Mental Wellness Support**
 
 <br>* Sends friendly reminders like “Hydrate and stretch!” or “You’ve studied for 2 hours — great progress!”
-
 <br>* Tracks user mood and suggests breaks or motivational playlists.
 
 **Flow:**
+
 <br>User Input (Prompt)
         <br>↓
 <br>Prompt Interpretation by LLM
@@ -105,7 +100,10 @@
 <br>Adaptive Learning / Updated Response
 
 
+
+
 <img width="985" height="292" alt="image" src="https://github.com/user-attachments/assets/92e4fb45-2167-49e8-8734-911674d51535" />
+
 
 
 # Result: 
