@@ -5,13 +5,13 @@
 <br># Register no. 212223060265
 
 
-<br># **Aim:** 
+<br> **Aim:** 
      <br> To develop a prompt-based application using ChatGPT - To demonstrate how to create a prompt-based application to organize daily tasks, showing the progression from simple to more advanced prompt designs and their corresponding outputs.
 
-<br>#**AI Tools Required: **
+<br>**AI Tools Required: **
 <br>Large Language Models like ChatGPT, Gemini 
 
-<br>#**Explanation: **
+<br>**Explanation: **
 
 <br>**Prompt:**
 
@@ -84,6 +84,8 @@
 <br>* Sends friendly reminders like “Hydrate and stretch!” or “You’ve studied for 2 hours — great progress!”
 <br>* Tracks user mood and suggests breaks or motivational playlists.
 
+
+
 **Flow:**
 
 <br>User Input (Prompt)
@@ -106,9 +108,12 @@
 
 
 
-# Result: 
-The lab exercise resulted in the creation of a prototype concept for a personal assistant powered by large language models. Students were able to:
- Understand how to tailor LLM prompts to real-life applications.
- Foster creativity by designing features suited to their personal or academic lives.
- Learn prompt engineering techniques for optimal interaction with AI tools.
- Experience the versatility and utility of generative AI in solving everyday problems.
+**Result: **
+
+<br>The lab exercise resulted in the creation of a prototype concept for a personal assistant powered by large language models. Students were able to:
+
+
+<br> Understand how to tailor LLM prompts to real-life applications.
+<br> Foster creativity by designing features suited to their personal or academic lives.
+<br> Learn prompt engineering techniques for optimal interaction with AI tools.
+<br> Experience the versatility and utility of generative AI in solving everyday problems.
