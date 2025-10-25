@@ -11,10 +11,11 @@
 <br>**AI Tools Required:**
 <br>Large Language Models like ChatGPT, Gemini 
 
+
+
 <br>**Explanation:**
 
 <br>**Prompt:**
-
 <br>"Design a personal productivity assistant that can help manage daily tasks, schedule reminders, suggest wellness tips, and answer general queries. The assistant should interact using natural language and be adaptable to the user’s changing preferences over time."
 
 <br>Procedure:
@@ -47,12 +48,11 @@
 <br>**Output:**
 
 <br>**Prompt:**
-
 <br>Design an intelligent Study and Focus Assistant that can help students manage study sessions, reduce distractions, summarize notes, generate quick quizzes, and give motivational nudges.
 <br>The assistant should adjust to the student’s learning speed and focus level, providing adaptive guidance throughout the day.
 
-<br>**Output:**
 
+<br>**Output:**
 <br>**Study and Focus Assistant Features**
 
 <br>**1. Smart Study Scheduler**
